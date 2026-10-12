@@ -1,0 +1,9 @@
+[project]
+name = "indic-speech-ondevice"
+version = "0.1.0"
+description = "Benchmarking fully-local Indian-language speech pipelines"
+requires-python = ">=3.12,<3.13"
+dependencies = []
+
+[tool.uv]
+package = false
